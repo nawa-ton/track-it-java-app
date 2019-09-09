@@ -1,5 +1,5 @@
 # Track-It Application
-Track-It is an expense tracking app built with Java.<br/>
+Track-It is a Java expense tracker app that is built with object-oriented design principles.<br/>
 
 It allows users to set budgets, add expenses and view balances. With Observer pattern, balances are re-calculated every time budget or expense amounts are updated. Users can also create multiple budgets. When they add expenses, they can choose which budget the expenses are deducted from.<br/>
 
