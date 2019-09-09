@@ -1,0 +1,23 @@
+As of Nov 11,2018 (08:18:13)
+
+'MyBudget'
+Budget: $100.00
+Expense:
+  books $50.00
+  dinner $40.00
+Total Expense: $90.00
+-------------
+Balance: $10.00
+=============
+
+'YourBudget'
+Budget: $150.00
+Expense:
+  shoes $50.00
+  bags $30.00
+Total Expense: $80.00
+-------------
+Balance: $70.00
+=============
+
+---End of report---
