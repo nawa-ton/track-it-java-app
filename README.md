@@ -8,3 +8,5 @@ They can also save their record and load it back when they want to resume their 
 Web API is used for obtaining currency exchange rate from the website. Users can view balance or download report in CAD, USD, GBP or EUR.<br/>
 
 Simple graphical user interface (GUI) was created by Swing to allow user to use the app easily.
+
+Exception handling and unit testing is implemented to increase the robustness of the app,
