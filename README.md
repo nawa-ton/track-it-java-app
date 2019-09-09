@@ -9,4 +9,7 @@ Web API is used for obtaining currency exchange rate from the website. Users can
 
 Simple graphical user interface (GUI) was created by Swing to allow user to use the app easily.
 
-Exception handling and unit testing is implemented to increase the robustness of the app,
+Exception handling and unit testing is implemented to increase the robustness of the app.
+
+<br>
+<img src="track-it-img.jpg"/>
