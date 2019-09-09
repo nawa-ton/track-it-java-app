@@ -12,4 +12,10 @@ Simple graphical user interface (GUI) was created by Swing to allow user to use 
 Exception handling and unit testing is implemented to increase the robustness of the app.
 
 <br>
-<img src="track-it-img.jpg"/>
+<img src="screenshot/track-it-welcome.png"/>
+<br>
+<img src="screenshot/track-it-add-budget.png"/>
+<br>
+<img src="screenshot/track-it-record.png"/>
+<br>
+<img src="screenshot/track-it-download.png"/>
